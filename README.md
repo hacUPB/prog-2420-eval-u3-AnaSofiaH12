@@ -17,6 +17,7 @@ La importancia del programa es que lleva un control de toda la mercancia disponi
 
 **5. Pseudocódigo:** 
 ///
+
 Inicio 
     Se crea un diccionario vacio llamado "inventario"
 
@@ -69,5 +70,6 @@ Inicio
     Si la opción es "Salir"
         Imprimir "Muchas gracias por hacer parte de Tienda de Sofi, Lo esperamos..."
 Fin 
+
 ///
 
