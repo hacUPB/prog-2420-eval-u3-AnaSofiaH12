@@ -2,7 +2,11 @@
 # Unidad 3
 ---
 ## Documentación del proyecto
-Nombre:  Ana Sofía Henao Agudelo
-ID:  000550158
+### Nombre:  Ana Sofía Henao Agudelo
 
----
+### ID:  000550158
+
+**1. Título del Proyecto:** Inventario de la tienda de Sofi 
+**2. Descripción:**  Este código permite gestionar el inventario de una tienda de ropa para mujer, llamada “La tienda de Sofí”. El programa permite averiguar, agregar, actualizar y eliminar productos de interés que estén disponibles en la tienda. Cualquier persona que haga parte del grupo de trabajo de la tienda puedes acceder a la cantidad de prendas disponibles y al precio. 
+La importancia del programa es que lleva un control de toda la mercancia disponible actualizada para tener la certeza de la cantidad de los productos o evitar el sobreabasteciminto, entre otros. 
+**3. Alcance:** En este caso el usuario es un trabajador que quiere buscar en la base de datos alguna caracteristicas de diversas prendas, entonces el usuario puede añadir nuevos productos, puede eliminar productos inextentes, 
