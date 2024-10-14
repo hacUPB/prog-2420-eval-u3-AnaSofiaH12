@@ -6,6 +6,8 @@
 
 ### ID:  000550158
 
+**Importante:** El codigo esta en la carpeta de src en una archivo llamado Datos.py y en el archivo USER_GUIDE.md encontraras instrucciones y detalles del funcionamiento del codigo. 
+
 **1. Título del Proyecto:** Inventario de la tienda de Sofi 
 
 **2. Descripción:**  Este código permite gestionar el inventario de una tienda de ropa para mujer, llamada “La tienda de Sofí”. El programa permite averiguar, agregar, actualizar y eliminar productos de interés que estén disponibles en la tienda. Cualquier persona que haga parte del grupo de trabajo de la tienda puedes acceder a la cantidad de prendas disponibles, el precio, y las tallas disponibles. 
@@ -68,7 +70,7 @@ La importancia del programa es que lleva un control de toda la mercancia disponi
                     Imprimir "Este producto no existe"
         
         Si la opción es "Salir"
-            Imprimir "Muchas gracias por hacer parte de Tienda de Sofi, Lo esperamos..."
+            Imprimir "Saliendo del programa"
     Fin 
 
 ///
