@@ -1,5 +1,6 @@
 
 def main():
+
     # Creo el diccionario para el inventario
     inventario = {
         "Vestidos": { "cantidad": 50, "precio": 100.000, "tallas": { "S": 25, "M": 20, "L": 5 }},
@@ -69,11 +70,10 @@ def main():
         
     # Funcion para 5. Salir 
     def salir():
-        print("Saliendo del programa...")     
-    
-                    
-    # Menu de opciones que se le solicita al usuario 
-
+        print("Saliendo del programa...")    
+         
+        
+    # Menu de opciones que se le solicita al usuario     
     while True: 
         print("\nOpciones posibles: ")
         print("1. Consultar Inventario ")
@@ -82,7 +82,9 @@ def main():
         print("4. Eliminar Producto ")
         print("5. Salir")
         opcion = int(input("Elige una de las opciones (1-5): "))
-                    
+        
+        
+        #Llamando a las funciones:                     
         if opcion == 1:
             consultar_inventario()
         elif opcion == 2:
@@ -96,5 +98,7 @@ def main():
             break
         else: 
             print("Opción no válida, por favor escoga una opcion del 1 a 5.")    
+            
+            
 if __name__ == "__main__":
     main()
