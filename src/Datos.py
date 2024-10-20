@@ -41,7 +41,7 @@ def main():
                 
     # Funcion para 3. Actualizar producto en el inventario 
     def actualizar_producto():
-        nombre = str(input("Nombre del producto que desea actualizar: "))
+        nombre = str(input("Nombre del producto que desea actualizar(Asegurese de que la primera letra sea mayuscula): "))
         if nombre in inventario:
             precio_n = float(input("Ingrese el nuevo precio para el producto: "))
             cantidad_n = int(input("Ingrese la nueva cantidad para este producto: "))
@@ -60,13 +60,13 @@ def main():
 
     # Funcion para 4. Para Eliminar producto 
     def eliminar_producto():
-        nombre = str(input("Nombre del producto que desea eliminar: "))     
+        nombre = str(input("Nombre del producto que desea eliminar(Asegurese de que la primera letra sea mayuscula): "))     
         if nombre in inventario:
             #metodo para eliminar:
             del inventario[nombre]
             print(f"Producto: {nombre}, fue eliminado con exito.") 
         else: 
-            print(f"Producto: {nombre} no fue encontrado en el inventario.")     
+            print(f"Producto: {nombre}, no fue encontrado en el inventario.")     
         
     # Funcion para 5. Salir 
     def salir():
