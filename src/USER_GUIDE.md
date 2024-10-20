@@ -40,28 +40,28 @@
             Talla L: 10
 
 2. Para agregar algun producto al inventario: 
-    Ingrese el nombre del producto: Zapatos
-    Agregue el precio del producto: 120000
-    Ingrese la cantidad total: 60
-    ¿Cuántas tallas tiene este producto?: 3
-        Qué talla desea ingresar (Por ejemplo: S, M, L): S
-            ¿Cantidad de unidades que desea agregar para la talla S?: 20
-        Qué talla desea ingresar (Por ejemplo: S, M, L): M
-            ¿Cantidad de unidades que desea agregar para la talla M?: 25
-        Qué talla desea ingresar (Por ejemplo: S, M, L): L
-            ¿Cantidad de unidades que desea agregar para la talla L?: 15
+        Ingrese el nombre del producto: Zapatos
+        Agregue el precio del producto: 120000
+        Ingrese la cantidad total: 60
+        ¿Cuántas tallas tiene este producto?: 3
+            Qué talla desea ingresar (Por ejemplo: S, M, L): S
+                ¿Cantidad de unidades que desea agregar para la talla S?: 20
+            Qué talla desea ingresar (Por ejemplo: S, M, L): M
+                ¿Cantidad de unidades que desea agregar para la talla M?: 25
+            Qué talla desea ingresar (Por ejemplo: S, M, L): L
+                ¿Cantidad de unidades que desea agregar para la talla L?: 15
 
 
 3. Para actualizar algun producto:
-    Nombre del producto que desea actualizar(Asegurese de que la primera letra sea mayuscula): Vestidos
-    Ingrese el nuevo precio para el producto: 105000
-    Ingrese la nueva cantidad para este producto: 45
-        La cantidad actual para la talla S es 25. Por favor, ingrese la nueva cantidad para la talla: 20
-        La cantidad actual para la talla M es 20. Por favor, ingrese la nueva cantidad para la talla: 15
-        La cantidad actual para la talla L es 5. Por favor, ingrese la nueva cantidad para la talla: 10
+        Nombre del producto que desea actualizar(Asegurese de que la primera letra sea mayuscula): Vestidos
+        Ingrese el nuevo precio para el producto: 105000
+        Ingrese la nueva cantidad para este producto: 45
+            La cantidad actual para la talla S es 25. Por favor, ingrese la nueva cantidad para la talla: 20
+            La cantidad actual para la talla M es 20. Por favor, ingrese la nueva cantidad para la talla: 15
+            La cantidad actual para la talla L es 5. Por favor, ingrese la nueva cantidad para la talla: 10
 
 4. Para eliminar algun producto: 
-    Nombre del producto que desea eliminar(Asegurese de que la primera letra sea mayuscula): Pantalon
-    Producto: Pantalon, fue eliminado con éxito.
+        Nombre del producto que desea eliminar(Asegurese de que la primera letra sea mayuscula): Pantalon
+        Producto: Pantalon, fue eliminado con éxito.
 
 Estos fueron algunos ejemplos del funcionamiento del programa. 
