@@ -40,6 +40,7 @@
             Talla L: 10
 
 2. Para agregar algun producto al inventario: 
+
         Ingrese el nombre del producto: Zapatos
         Agregue el precio del producto: 120000
         Ingrese la cantidad total: 60
@@ -53,6 +54,7 @@
 
 
 3. Para actualizar algun producto:
+
         Nombre del producto que desea actualizar(Asegurese de que la primera letra sea mayuscula): Vestidos
         Ingrese el nuevo precio para el producto: 105000
         Ingrese la nueva cantidad para este producto: 45
@@ -61,6 +63,7 @@
             La cantidad actual para la talla L es 5. Por favor, ingrese la nueva cantidad para la talla: 10
 
 4. Para eliminar algun producto: 
+
         Nombre del producto que desea eliminar(Asegurese de que la primera letra sea mayuscula): Pantalon
         Producto: Pantalon, fue eliminado con éxito.
 
